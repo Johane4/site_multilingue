@@ -37,7 +37,6 @@ let stringyDisplay = JSON.stringify(langDisplay);
 console.log(stringyDisplay);
 localStorage.setItem("langDisplay", stringyDisplay);
 
-
 const FRbutt = document.querySelector("button:nth-of-type(1)");
 const ENbutt = document.querySelector("button:nth-of-type(2)");
 const langHTML = document.querySelector("html");
