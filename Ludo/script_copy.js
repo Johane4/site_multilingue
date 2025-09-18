@@ -27,7 +27,7 @@ console.log(aboutTitle);
 console.log(aboutDesc);
 console.log(footerText);
 
-const languesJSON = "/langues.json"
+const languesJSON = "/Ludo/langues.json"
 fetch(languesJSON)
     .then ((response) => {
         console.log(response);
