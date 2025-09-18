@@ -1,0 +1,34 @@
+{
+
+"en": {
+        "title": "Welcome to our site",
+        "subtitle": "Your gateway to an incredible experience",
+        "ctaButton": "Learn more",
+        "featuresTitle": "Our characteristics",
+        "feature1Title": "Modern design",
+        "feature1Desc": "Enjoy cutting-edge design.",
+        "feature2Title": "Responsive",
+        "feature2Desc": "Our site adapts to all your devices.",
+        "feature3Title": "Easy to use",
+        "feature3Desc": "An intuitive interface for a pleasant experience.",
+        "aboutTitle": "About us",
+        "aboutDesc": "We are a team passionate about creating high-performing and aesthetic websites.",
+        "footerText": "© 2024 - All rights reserved. Legal notices"
+    },
+    "fr": {
+        "title": "Bienvenue sur notre site",
+        "subtitle": "Votre porte d'entrée vers une expérience incroyable",
+        "ctaButton": "En savoir plus",
+        "featuresTitle": "Nos caractéristiques",
+        "feature1Title": "Design moderne",
+        "feature1Desc": "Profitez d'un design à la pointe de la technologie.",
+        "feature2Title": "Responsive",
+        "feature2Desc": "Notre site s'adapte à tous vos appareils.",
+        "feature3Title": "Facile à utiliser",
+        "feature3Desc": "Une interface intuitive pour une expérience agréable.",
+        "aboutTitle": "À propos de nous",
+        "aboutDesc": "Nous sommes une équipe passionnée par la création de sites web performants et esthétiques.",
+        "footerText": "© 2024 - Tous droits réservés. Mentions légales"
+    }
+}
+
